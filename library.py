@@ -1,7 +1,5 @@
 # library.py
-# Added login module
-from login import login
-login()
+
 print("Library Management System")
 # New: Student Registration Module
 def register_student(name, student_id):
