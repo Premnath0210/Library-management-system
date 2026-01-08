@@ -11,3 +11,4 @@ def register_student(name, student_id):
 # Test the function
 if __name__ == "__main__":
     print(register_student("Alice", "S001"))
+    print("added for case study-7")

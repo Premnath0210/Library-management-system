@@ -14,3 +14,4 @@ def login():
         print("Login successful!")
     else:
         print("Invalid credentials.")
+        print("case study-7")
